@@ -78,7 +78,7 @@ I learnt how to add **url, color, and blend modes** for background properties to
 
 ## Author
 
-- Frontend Profile [@CKodes](https://www.frontendmentor.io/profile/CKodes)
+- Frontend Mentor Profile [@CKodes](https://www.frontendmentor.io/profile/CKodes)
 
 ## Acknowledgments
 
