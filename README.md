@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/stats-preview-card-component-qlCE8TBSN)
-- [Live Site](https://ckodes.github.io/FEM.StatsPreviewCardComponent/)
+- [Live Site](https://ckodes.github.io/FEM.StatsPreviewCardComponent_Bootstrap/)
 
 ## My process
 
