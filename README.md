@@ -6,7 +6,7 @@ This is CKodes's solution to the [Stats preview card component challenge on Fron
 
 ### The challenge
 
-Users should be able to:s
+Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
